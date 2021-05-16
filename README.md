@@ -22,4 +22,4 @@ final year project display
 * Ethereum
 
 ## Project screenshots:
-![GITHUB]( https://github.com/chanalan321/fyp-codedisplay/blob/master/readme_photos/Public home page.jpg?raw=true "Public home page")
+![GITHUB]( https://github.com/chanalan321/fyp-codedisplay/blob/master/readme_photos/Public_home_page.png?raw=true "Public home page")
