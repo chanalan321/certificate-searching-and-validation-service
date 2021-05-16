@@ -1,18 +1,25 @@
 # fyp-codedisplay
 final year project display
 
-Backend:
-server.js
+## Backend:
+* server.js
 
-Fontend:
-client/
+## Fontend:
+* client/
 
-Development Tools:
-React.js
-Material UI 
-React Router
-Express.js
-MongoDB
-Ethereum
+## Development Tools:
+### Client side:
+* React.js
+### Server side:
+* Express.js
+### UI design style:
+* Material UI 
+### Route:
+* React Router
+### Database:
+* MongoDB
+### Blockchain and smart contract
+* Ethereum
 
-Project screenshots:
+## Project screenshots:
+![GITHUB]( 圖片網址 "圖片名稱")
