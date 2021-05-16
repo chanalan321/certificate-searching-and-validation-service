@@ -22,4 +22,28 @@ final year project display
 * Ethereum
 
 ## Project screenshots:
-![GITHUB]( https://github.com/chanalan321/fyp-codedisplay/blob/master/readme_photos/Public_home_page.png?raw=true "Public home page")
+
+### Public home page:
+<p align="center">
+  <img src="https://github.com/chanalan321/fyp-codedisplay/blob/a323fe6653d8f5dc556a0c22253136370f8d29be/readme_photos/Public%20home%20page.png">
+</p>
+
+### Auditor home page
+<p align="center">
+  <img src="https://github.com/chanalan321/fyp-codedisplay/blob/a323fe6653d8f5dc556a0c22253136370f8d29be/readme_photos/Auditor%20home%20page.png">
+</p>
+
+### Creator home page
+<p align="center">
+  <img src="https://github.com/chanalan321/fyp-codedisplay/blob/a323fe6653d8f5dc556a0c22253136370f8d29be/readme_photos/Creator%20home%20page.png">
+</p>
+
+### Student home page
+<p align="center">
+  <img src="https://github.com/chanalan321/fyp-codedisplay/blob/a323fe6653d8f5dc556a0c22253136370f8d29be/readme_photos/Student%20home%20page.png">
+</p>
+
+### Public verifying page
+<p align="center">
+  <img src="https://github.com/chanalan321/fyp-codedisplay/blob/a323fe6653d8f5dc556a0c22253136370f8d29be/readme_photos/Public%20verifying%20page.png">
+</p>
