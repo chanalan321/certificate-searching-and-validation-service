@@ -1,7 +1,4 @@
 # fyp-codedisplay
-final year project display
-
-## Abstract:
 In this work, I introduce a blockchain-based certificate searching and validation service. The service uses smart digital contracts to seal database data and use digital technology to ensure data correctness.
 
 ## Backend:
